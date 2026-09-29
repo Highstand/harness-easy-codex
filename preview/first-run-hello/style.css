@@ -1,0 +1,40 @@
+
+*{box-sizing:border-box}
+@font-face{font-family:PretendardLocal;src:url("../assets/PretendardVariable.woff2") format("woff2");font-weight:100 900;font-style:normal;font-display:swap}
+body{margin:0;padding:32px;background:#eeefe8;font-family:PretendardLocal,Pretendard, -apple-system, sans-serif}
+h1{font-size:22px;margin:0 0 24px}
+.gallery{display:flex;flex-wrap:wrap;gap:24px}
+.shell{width:360px;height:450px;overflow:hidden}
+.canvas{position:relative;width:1080px;height:1350px;background:#141713;overflow:hidden;
+  transform:scale(var(--s,0.3333));transform-origin:top left;font-family:PretendardLocal,Pretendard, -apple-system, sans-serif}
+.photo{position:absolute;object-fit:cover}
+.k-cover .photo{left:0;top:0;width:1080px;height:1350px}
+.k-wide .photo{left:0;top:454px;width:1080px;height:896px}
+.k-inset .photo{left:121px;top:656px;width:839px;height:509px;border-radius:16px}
+.placeholder{display:flex;align-items:center;justify-content:center;text-align:center;color:#8a9085;
+  font-size:30px;line-height:1.4;background:#252a23;border:2px dashed #4a5046}
+.grad-cover{position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.18) 0%,rgba(0,0,0,0) 48%,rgba(0,0,0,.3) 72%,rgba(0,0,0,.8) 100%)}
+.grad-top{position:absolute;left:0;top:0;width:1080px;height:728px;background:linear-gradient(180deg,rgba(0,0,0,.8),rgba(0,0,0,0))}
+.k-wide .photo{z-index:0}
+.k-wide .grad-top{z-index:1;background:linear-gradient(180deg,rgb(0,0,0) 0%,rgb(0,0,0) 63.19%,rgba(0,0,0,0) 100%)}  /* 원본 122:8094 gradientTransform: 불투명 0~460px → 투명 728px */
+.logo{position:absolute;width:184px;height:32px;z-index:3}
+.logo-cover{left:72px;top:72px} .logo-info,.logo-wide,.logo-inset{left:775px;top:80px} .logo-cta{left:448px;top:240px}
+.missing{border:2px dashed #E6FF65;color:#E6FF65;font-size:14px;line-height:1.2;display:flex;align-items:center;justify-content:center;text-align:center;background:rgba(230,255,101,.08)}
+.cover-title{position:absolute;left:72px;top:966px;width:936px;margin:0;z-index:2;color:#FFFFFF;font-size:88px;font-weight:700;line-height:1.2;letter-spacing:-.02em}
+.cover-cap{position:absolute;left:72px;top:1206px;width:936px;margin:0;z-index:2;color:#C2C8BE;font-size:40px;line-height:1.16;letter-spacing:-.02em;white-space:nowrap}
+.copy{position:absolute;left:120px;top:192px;width:840px;z-index:2}
+.label{color:#E6FF65;font-size:36px;font-weight:500;line-height:1.16;letter-spacing:-.02em;margin:0 0 28px;white-space:nowrap}
+h2{color:#FFFFFF;font-size:80px;font-weight:700;line-height:1.2;letter-spacing:-.02em;margin:0}
+.caption{color:#C2C8BE;font-size:40px;line-height:1.16;letter-spacing:-.02em;margin:28px 0 0;white-space:nowrap}
+.cta-title{position:absolute;left:64px;top:320px;width:952px;text-align:center;color:#F5F5EF;font-size:88px;line-height:1.16;z-index:2}
+.cta{position:absolute;left:351px;top:572px;width:378px;height:85px;border-radius:32px;background:#E6FF65;color:#141713;
+  font-size:32px;font-weight:700;line-height:1.4;letter-spacing:-.02em;display:flex;align-items:center;justify-content:center;white-space:nowrap;z-index:2}
+.rows{position:absolute;left:121px;top:637px;width:839px;z-index:2}
+.row{display:flex;justify-content:space-between;align-items:center;height:159px;padding:0 80px;margin-bottom:32px;
+  border-radius:30px;background:#34362D;color:#FFFFFF;font-size:34px;line-height:1.16;letter-spacing:-.04em;white-space:nowrap}
+.row b{font-weight:500} .row span{font-weight:400}
+.deco{position:absolute;z-index:4;pointer-events:none}
+.meta{margin:8px 0 0;font-size:13px;color:#555}
+
+body{padding:32px;background:#eeefe8}h1{margin-bottom:10px}.preview-note{font-size:14px;color:#53584f;margin:0 0 24px;line-height:1.6}.gallery{gap:24px}.copy{top:262px}.caption{white-space:normal;word-break:keep-all;line-height:1.3}.k-wide .grad-top{height:810px;background:linear-gradient(180deg,#141713 0%,#141713 61%,rgba(20,23,19,.92) 73%,rgba(20,23,19,0) 100%)}.k-inset .grad-top{display:none}.k-wide .photo{object-position:center 60%}.meta{margin-top:10px}.shell{width:248px;height:310px}.canvas{--s:0.2296296296}
+@media(max-width:420px){body{padding:16px}.gallery{gap:24px}.shell{width:calc(100vw - 32px);height:calc((100vw - 32px)*1.25)}.canvas{--s:calc((100vw - 32px)/1080px)}}

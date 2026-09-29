@@ -1,0 +1,31 @@
+{
+  "method": "built-in image_gen",
+  "use_case": "photorealistic-natural",
+  "generatedAt": "2026-09-29",
+  "images": [
+    {
+      "file": "cover.png",
+      "prompt": "Use case: photorealistic-natural. Editorial running campaign photograph for fictional Korean community Runmate. Korean adults in their late 20s/30s, plain black and ivory running wear without branding, grey asphalt park paths, muted olive green foliage, soft overcast morning daylight, restrained saturation, authentic skin and fabric texture, relaxed beginner-friendly atmosphere, premium candid photography. No text, no logos, no watermarks, no graphic decorations. Anatomically correct bodies, hands and shoes. Portrait 4:5 composition. Rear three-quarter view of one runner approaching two other runners waiting farther ahead in a neighborhood park. Full body of approaching runner in upper middle of frame; broad empty dark grey path in bottom 30 percent reserved for heading overlay. Quiet anticipation, no competition.",
+      "card": "cover",
+      "sourcePath": "/Users/bibi/.codex/generated_images/01a0eb01-8ab9-7f71-b125-c5041e0af62d/exec-3a5487d9-e735-46b9-bcb6-01df0d79163a.png"
+    },
+    {
+      "file": "hello.png",
+      "prompt": "Use case: photorealistic-natural. Editorial running campaign photograph for fictional Korean community Runmate. Korean adults in their late 20s/30s, plain black and ivory running wear without branding, grey asphalt park paths, muted olive green foliage, soft overcast morning daylight, restrained saturation, authentic skin and fabric texture, relaxed beginner-friendly atmosphere, premium candid photography. No text, no logos, no watermarks, no graphic decorations. Anatomically correct bodies, hands and shoes. Wide landscape 5:3 composition. Two runners meeting on a park path, one casually raising one hand in a small hello, the other returning a friendly glance. Medium full-body shot with natural body proportions, hands distinct and believable, people centered, leave bottom right edge as empty path for a small decorative overlay. No staged high-five.",
+      "card": "hello",
+      "sourcePath": "/Users/bibi/.codex/generated_images/01a0eb01-8ab9-7f71-b125-c5041e0af62d/exec-b8bcd397-1976-41f0-b562-c7456a139e0e.png"
+    },
+    {
+      "file": "pace.png",
+      "prompt": "Use case: photorealistic-natural. Editorial running campaign photograph for fictional Korean community Runmate. Korean adults in their late 20s/30s, plain black and ivory running wear without branding, grey asphalt park paths, muted olive green foliage, soft overcast morning daylight, restrained saturation, authentic skin and fabric texture, relaxed beginner-friendly atmosphere, premium candid photography. No text, no logos, no watermarks, no graphic decorations. Anatomically correct bodies, hands and shoes. Wide landscape 5:3 composition. Two runners standing side by side at the edge of a park path before starting, turned slightly toward each other in a relaxed short conversation, one woman in ivory top and one man in black top. Medium shot including legs, natural subdued expressions. Open space at lower right, calm greenery behind.",
+      "card": "pace",
+      "sourcePath": "/Users/bibi/.codex/generated_images/01a0eb01-8ab9-7f71-b125-c5041e0af62d/exec-ec1cfa94-7ef8-4c26-85a8-2610989a802f.png"
+    },
+    {
+      "file": "start.png",
+      "prompt": "Use case: photorealistic-natural. Editorial running campaign photograph for fictional Korean community Runmate. Korean adults in their late 20s/30s, plain black and ivory running wear without branding, grey asphalt park paths, muted olive green foliage, soft overcast morning daylight, restrained saturation, authentic skin and fabric texture, relaxed beginner-friendly atmosphere, premium candid photography. No text, no logos, no watermarks, no graphic decorations. Anatomically correct bodies, hands and shoes. Nearly square landscape 6:5 composition, close low rear view of the legs and running shoes of two runners beginning a relaxed jog in the same direction. Two complete pairs of legs with anatomically plausible stride, black shorts and ivory socks, natural unbranded shoes. Feet and legs in lower two thirds, top third softly receding grey park path for gradient overlay. No race track marks, no motion blur on shoes.",
+      "card": "start",
+      "sourcePath": "/Users/bibi/.codex/generated_images/01a0eb01-8ab9-7f71-b125-c5041e0af62d/exec-3bf3c4f2-b7bb-452d-917a-177d96392351.png"
+    }
+  ]
+}

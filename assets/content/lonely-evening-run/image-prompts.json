@@ -1,0 +1,31 @@
+{
+  "plan": "lonely-evening-run",
+  "generatedAt": "2026-09-29",
+  "tool": "Higgsfield · gpt_image_2_5 · quality high · 2k (비율은 장별 사진 칸 기준)",
+  "note": "AI 생성 이미지 — 실제 모임 기록 아님",
+  "images": [
+    {
+      "file": "images/cover.png",
+      "card": "cover",
+      "job_id": "53099746-5e47-4223-8a56-64759eefc0aa",
+      "prompt": "A lone runner in black and ivory running wear seen from behind on a grey asphalt path at dusk, calm green trees, restrained natural light, editorial running photography, vertical 4:5.",
+      "aspect": "4:5 (칸 1080×1350)"
+    },
+    {
+      "file": "images/card-2.png",
+      "card": "card-2",
+      "job_id": "2b8577fd-7514-4d7e-8c61-f3ea87293aa0",
+      "prompt": "A lone runner small in the distance on a quiet neighborhood walking path along a stream, low-rise houses and muted green trees, grey paved footpath at dusk, soft natural light, editorial running photography, wide 27:16.",
+      "aspect": "27:16 (칸 839×509)",
+      "replaced": "images/card-2_v1.png"
+    },
+    {
+      "file": "images/card-3.png",
+      "card": "card-3",
+      "job_id": "1b7d0da9-7881-4153-bba4-970f6a28adcd",
+      "prompt": "A full-length runner seen from behind at an easy relaxed pace, whole figure from head to shoes, on a grey paved neighborhood path at dusk, black and ivory clothing, calm greenery, restrained natural light, editorial running photography, 5:4.",
+      "aspect": "5:4 (칸 1080×896)",
+      "replaced": "images/card-3_v1.png"
+    }
+  ]
+}

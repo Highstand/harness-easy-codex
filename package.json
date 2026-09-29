@@ -1,0 +1,17 @@
+{
+  "name": "harness-easy-codex",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Codex SNS 콘텐츠 하네스 — 경쟁사 조사, 기획, 새 이미지, 필수 HTML 프리뷰, Figma",
+  "scripts": {
+    "make-report": "node scripts/make-report.js",
+    "preview": "python3 scripts/build-preview.py",
+    "doctor": "python3 scripts/doctor.py"
+  },
+  "dependencies": {
+    "pptxgenjs": "^4.0.1"
+  },
+  "overrides": {
+    "image-size": "2.0.4"
+  }
+}

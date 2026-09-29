@@ -1,0 +1,89 @@
+[
+  {
+    "id": "cover",
+    "pattern": "A1 전면 사진 표지",
+    "label": null,
+    "title": "첫 러닝 모임,\n무슨 말을 꺼낼까요?",
+    "caption": "달리기보다 첫인사가 더 낯설 때.",
+    "image": "cover.png",
+    "rows": null,
+    "cta": null,
+    "decorations": [
+      {
+        "asset": "sparkle-cover-77x98.svg",
+        "x": 63,
+        "y": 372,
+        "width": 77,
+        "height": 98
+      }
+    ]
+  },
+  {
+    "id": "hello",
+    "pattern": "A2 가로 사진형",
+    "label": null,
+    "title": "“안녕하세요”\n한마디부터 시작해요",
+    "caption": "어떤 말을 할지 고민되면, 인사부터 건네봐요.",
+    "image": "hello.png",
+    "rows": null,
+    "cta": null,
+    "decorations": [
+      {
+        "asset": "sparkle-inset-75x96.svg",
+        "x": 885,
+        "y": 1117,
+        "width": 75,
+        "height": 96
+      }
+    ]
+  },
+  {
+    "id": "pace",
+    "pattern": "A2 가로 사진형",
+    "label": null,
+    "title": "내 페이스를\n먼저 이야기해요",
+    "caption": "저는 천천히 달리고 싶어요. 어떠세요?",
+    "image": "pace.png",
+    "rows": null,
+    "cta": null,
+    "decorations": [
+      {
+        "asset": "sparkle-inset-75x96.svg",
+        "x": 885,
+        "y": 1117,
+        "width": 75,
+        "height": 96
+      }
+    ]
+  },
+  {
+    "id": "start",
+    "pattern": "A2 전폭 사진형",
+    "label": null,
+    "title": "긴 대화가 없어도\n함께 달릴 수 있어요",
+    "caption": "짧은 인사를 나눴다면, 이제 함께 출발해요.",
+    "image": "start.png",
+    "rows": null,
+    "cta": null,
+    "decorations": []
+  },
+  {
+    "id": "cta",
+    "pattern": "A3 행동 마무리",
+    "label": null,
+    "title": "다음 러닝은\n인사부터 시작해요",
+    "caption": null,
+    "image": null,
+    "rows": null,
+    "cta": "주변 모임 둘러보기",
+    "decorations": [
+      {
+        "asset": "track-lines.svg",
+        "x": 0,
+        "y": 720,
+        "width": 1080,
+        "height": 623
+      }
+    ]
+  }
+]

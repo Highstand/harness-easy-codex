@@ -1,0 +1,53 @@
+{
+  "source": {
+    "fileKey": "1D7Jqr9ku3boaa7GVbeAUm",
+    "section": "186:3741",
+    "exportedAt": "2026-09-29",
+    "method": "exportAsync SVG_STRING"
+  },
+  "files": [
+    {
+      "file": "runmate-logo-lime.svg",
+      "node": "47:6757",
+      "viewBox": "0 0 184 32",
+      "bytes": 2974,
+      "sha256": "42738421e7cd9dac2ca30baf00d1a9143c69277871a332694a58a9fb4fd166ab"
+    },
+    {
+      "file": "sparkle-large.svg",
+      "node": "122:8139",
+      "viewBox": "0 0 101 128",
+      "bytes": 640,
+      "sha256": "1da5d8c69bc48239d6f6d07416e17ced9847eb8f29a8e252355a0d0862195e8c"
+    },
+    {
+      "file": "sparkle-small.svg",
+      "node": "122:8092",
+      "viewBox": "0 0 52 84",
+      "bytes": 623,
+      "sha256": "b9e056adefb19ac42ca4000b031e7d0cc08c277fc1c8dc0496d06948ebfe93f2"
+    },
+    {
+      "file": "sparkle-cover-77x98.svg",
+      "node": "123:8290",
+      "viewBox": "0 0 77 98",
+      "bytes": 627,
+      "sha256": "b5344c40b1d7f6fccff3ac05186bd012884f3f8c7503e04cc421ca5185f3b742"
+    },
+    {
+      "file": "sparkle-inset-75x96.svg",
+      "node": "136:8608",
+      "viewBox": "0 0 75 96",
+      "bytes": 635,
+      "sha256": "2cc41153d2a38b4fcc1fa265e891b2a127bdddf6e540143506be481ec62ba3b7"
+    },
+    {
+      "file": "track-lines.svg",
+      "node": "122:8084",
+      "viewBox": "0 0 1080 623",
+      "bytes": 1271,
+      "sha256": "7ec5f374d77d3bca25645ed739c1c6a1144dd8f06ab10274cf30235dcc7bcf3f",
+      "note": "원본 부모 프레임에 잘린 내보내기(1080×623). 그룹 불투명도 0.65·선 0.6 포함"
+    }
+  ]
+}

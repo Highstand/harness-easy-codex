@@ -1,0 +1,49 @@
+{
+  "status": "complete",
+  "fileKey": "1D7Jqr9ku3boaa7GVbeAUm",
+  "pageId": "182:198",
+  "section": "209:296",
+  "url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=209-296",
+  "adjacentTo": "206:292",
+  "previewApproval": "approved",
+  "cards": [
+    {
+      "id": "cover",
+      "nodeId": "209:298",
+      "url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=209-298"
+    },
+    {
+      "id": "hello",
+      "nodeId": "209:314",
+      "url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=209-314"
+    },
+    {
+      "id": "pace",
+      "nodeId": "209:329",
+      "url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=209-329"
+    },
+    {
+      "id": "start",
+      "nodeId": "209:344",
+      "url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=209-344"
+    },
+    {
+      "id": "cta",
+      "nodeId": "209:358",
+      "url": "https://www.figma.com/design/1D7Jqr9ku3boaa7GVbeAUm/?node-id=209-358"
+    }
+  ],
+  "validation": {
+    "cards": 5,
+    "editableTexts": 10,
+    "photos": 4,
+    "dimensions": "1080x1350",
+    "copyMatchesContentJson": true,
+    "renderReviewed": true,
+    "screenshot": "figma-final.png"
+  },
+  "unverified": [
+    "실제 CTA 목적지는 없는 가상 서비스 시안"
+  ],
+  "notes": "대상 섹션 오른쪽 400px 간격. 원본 보존."
+}

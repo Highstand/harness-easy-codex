@@ -1,0 +1,11 @@
+# Codex가 신뢰한 프로젝트에서 로드하는 프로젝트 MCP 설정.
+# 원본 .mcp.json의 Aside STDIO 연결을 옮겼다. 로그인 정보는 포함하지 않는다.
+[mcp_servers.aside]
+command = "aside"
+args = ["mcp"]
+startup_timeout_sec = 30
+
+[mcp_servers.aside.tools.repl]
+approval_mode = "approve"
+# Figma는 Codex에 설치/인증한 플러그인을 사용한다. 중복 등록하지 않는다.
+# 모델·승인 정책·개인 전역 설정은 이 프로젝트에서 덮어쓰지 않는다.

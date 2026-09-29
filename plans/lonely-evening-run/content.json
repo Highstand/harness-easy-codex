@@ -1,0 +1,124 @@
+[
+  {
+    "id": "cover",
+    "pattern": "A1 전면 사진 표지",
+    "label": null,
+    "title": "혼자 뛰기\n심심한 저녁",
+    "caption": "발소리만 들리는 날이 있어요",
+    "image": "cover.png",
+    "rows": null,
+    "cta": null,
+    "decorations": [
+      {
+        "asset": "sparkle-cover-77x98.svg",
+        "x": 63,
+        "y": 372,
+        "width": 77,
+        "height": 98
+      },
+      {
+        "asset": "sparkle-large.svg",
+        "x": 736.516,
+        "y": 1043,
+        "width": 101,
+        "height": 128
+      }
+    ]
+  },
+  {
+    "id": "card-2",
+    "pattern": "A2 가로 사진형",
+    "label": "혼자 달리다 문득",
+    "title": "말없이 뛰는 길이\n조금 길게 느껴져요",
+    "caption": "누구나 그런 저녁이 있어요.",
+    "image": "card-2.png",
+    "rows": null,
+    "cta": null,
+    "decorations": [
+      {
+        "asset": "sparkle-inset-75x96.svg",
+        "x": 885,
+        "y": 1117,
+        "width": 75,
+        "height": 96
+      }
+    ]
+  },
+  {
+    "id": "card-3",
+    "pattern": "A2 전폭 사진형",
+    "label": "그럴 땐",
+    "title": "천천히 달려도\n괜찮아요",
+    "caption": "내 페이스 그대로면 충분해요.",
+    "image": "card-3.png",
+    "rows": null,
+    "cta": null,
+    "decorations": [
+      {
+        "asset": "sparkle-small.svg",
+        "x": 407,
+        "y": 858,
+        "width": 52,
+        "height": 84
+      },
+      {
+        "asset": "sparkle-large.svg",
+        "x": 949,
+        "y": 730,
+        "width": 101,
+        "height": 128
+      }
+    ]
+  },
+  {
+    "id": "card-4",
+    "pattern": "A2 정보형",
+    "label": "예시 모임",
+    "title": "이런 모임이라면\n가볍게 나가볼까요",
+    "caption": "부담 없이 둘러보세요.",
+    "image": null,
+    "rows": [
+      [
+        "장소",
+        "한강공원"
+      ],
+      [
+        "시간",
+        "토요일 17:00"
+      ],
+      [
+        "거리",
+        "3km"
+      ]
+    ],
+    "cta": null,
+    "decorations": [
+      {
+        "asset": "sparkle-large.svg",
+        "x": 876,
+        "y": 528,
+        "width": 101,
+        "height": 128
+      }
+    ]
+  },
+  {
+    "id": "cta",
+    "pattern": "A3 행동 마무리",
+    "label": null,
+    "title": "오늘은\n함께 달려볼까요?",
+    "caption": null,
+    "image": null,
+    "rows": null,
+    "cta": "주변 모임 둘러보기",
+    "decorations": [
+      {
+        "asset": "track-lines.svg",
+        "x": 0,
+        "y": 718.5,
+        "width": 1080,
+        "height": 623
+      }
+    ]
+  }
+]
